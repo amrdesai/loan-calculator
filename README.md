@@ -4,4 +4,4 @@
 
 ## About
 - User must input loan amount and number of years of repayment
-- App will generate monthly payment amount
+- App will generate monthly payment amount.
